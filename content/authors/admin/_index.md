@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Munirul Alam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Munirul
+last_name: Alam
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👋
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: BUET
+    url: https://www.buet.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: ' 	munirulalam15@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
+  # - icon: brands/linkedin
+    url: https://www.linkedin.com/in/munirul15	
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Operations Research
+  - Multi-scale Materials Modelling
+  - Bio-Inspired Design
+  - Deep Learning
+  - Human Factors
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Mechanical Engineering student at the Bangladesh University of Engineering and Technology (BUET) with a passion for bio-inspired design, materials modeling, and operations research. I am keen on combining technical skills with real-world applications, particularly in the areas of high-entropy alloys, supply chain optimization, and energy-efficient systems.
