@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Munirul Alam
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Munirul
+last_name: Alam
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +13,123 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Researcher | BUET Mechanical Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Bangladesh University of Engineering and Technology (BUET)
+    url: https://www.buet.ac.bd/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:munirulalam15@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/munirul15
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/munirul15
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Operations Research
+  - Multi-scale Materials Modelling
+  - Bio-Inspired Design
+  - Deep Learning
+  - Human Factors
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. in Mechanical Engineering
+    institution: Bangladesh University of Engineering and Technology (BUET)
+    date_start: 2020-02-01
+    date_end: 2025-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      CGPA: 3.42/4.00  
+      Awarded Education Board Merit Scholarship (Talentpool).  
+      Undergraduate Thesis on creep behavior and short-range ordering in high-entropy alloys using data-driven MD simulations.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Vice President
+    company_name: Multiscale Mechanical Modeling and Research Network (MMMRN)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Led international collaboration and communication across professors, alumni, and students.
+      Organized research webinars and mentoring activities to foster a culture of mechanical research.
+
+  - position: In-Plant Trainee
+    company_name: Square Pharmaceuticals PLC
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-01
+    date_end: 2024-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Trained in production line processes, quality control, and safety measures in a GMP-regulated industrial setting.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: MATLAB
+        percent: 85
+        icon: function
+      - name: C/C++
+        percent: 75
+        icon: terminal
+      - name: SolidWorks
+        percent: 80
+        icon: cube
+      - name: Gurobi, Pyomo, CPLEX
+        percent: 70
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+      - name: LAMMPS, OVITO
+        percent: 65
+        icon: atom
+  - name: Graphics & Visualization
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Adobe Illustrator
+        percent: 90
+        icon: paintbrush
+      - name: Inkscape
+        percent: 85
+        icon: pen-tool
+      - name: OriginPro, Techplot
+        percent: 70
+        icon: chart-pie
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: National Champion – Bangladesh Physics Olympiad
+    date: '2019-02-01'
+    awarder: BdPhO
+    icon: medal
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Champion and multiple-year participant in the national rounds of the Bangladesh Physics Olympiad.
+  - title: GRE – 315 (V: 155, Q: 160)
+    date: '2024-07-01'
+    awarder: ETS
+    icon: academic-cap
+    summary: Scored 315/340 with strong Quantitative reasoning.
+  - title: TOEFL – 108 (R: 30, L: 27, S: 25, W: 26)
+    date: '2024-08-01'
+    awarder: ETS
+    icon: academic-cap
+    summary: Demonstrated strong proficiency in all four language skills.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Mechanical Engineering senior at BUET with a strong foundation in operations research, data-driven material modeling, and robotics. My research spans high-entropy alloys, cognitive quadruped design, and terrain-aware interdiction models. I aim to pursue graduate study to build scalable, intelligent systems grounded in physical realism and optimized for human-centric design.
+
+---
